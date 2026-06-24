@@ -13,19 +13,27 @@ public:
     //     return num; 
     // }
 
-    int singleNumber(vector<int>& nums) {
-        map<long long, int> mp; 
+    // int singleNumber(vector<int>& nums) {
+    //     map<long long, int> mp; 
 
-        for(int i = 0; i < nums.size(); i++){
-            mp[nums[i]]++;
-        }
+    //     for(int i = 0; i < nums.size(); i++){
+    //         mp[nums[i]]++;
+    //     }
 
-        for(auto it: mp){
-            if(it.second == 1){
-                return it.first; 
-            }
-        }
+    //     for(auto it: mp){
+    //         if(it.second == 1){
+    //             return it.first; 
+    //         }
+    //     }
 
-        return -1; 
+    //     return -1; 
+    // }
+
+    int singleNumber(vector<int>& nums){
+        int xor1 = nums[0];
+        for(int i = 1; i < nums.size(); i++){
+            xor1 ^= nums[i]; 
+        } 
+        return xor1; 
     }
 };
