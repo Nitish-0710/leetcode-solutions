@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,13 +36,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nitish-0710/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
